@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "types": [
+            "cypress"
+        ],
+        "resolveJsonModule": true,
+        "esModuleInterop": true
+        
+    },
+}
