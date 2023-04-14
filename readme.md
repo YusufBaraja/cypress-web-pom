@@ -1,3 +1,3 @@
-to install run
+to install 
 
 npm i
